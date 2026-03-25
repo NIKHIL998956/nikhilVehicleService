@@ -50,7 +50,6 @@ INSTALLED_APPS = [
     'chatbot',
     'corsheaders',
     'rest_framework'
-    'rest_framework'
 ]
 
 AUTH_USER_MODEL = "accounts.User"
